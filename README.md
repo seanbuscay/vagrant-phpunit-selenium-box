@@ -2,7 +2,9 @@ Vagrant PHPUnit and Selenium Box
 =========================
 *Vagrant Box for running PHPUnit_Selenium Test Cases*
 
-Provides a Vagrant Box to run automated (headless) web browser tests, using the [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/) and tests written as      [PHPUnit_Selenium Test Cases](http://phpunit.de/manual/4.0/en/selenium.html).
+A pre-built Vagrant Box to run automated (headless) web browser tests, using the [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/) and tests written as      [PHPUnit_Selenium Test Cases](http://phpunit.de/manual/4.0/en/selenium.html).
+
+This pre-built box is built with: https://github.com/seanbuscay/vagrant-phpunit-selenium
 
 **Requires: Vagrant 1.5+**
 
